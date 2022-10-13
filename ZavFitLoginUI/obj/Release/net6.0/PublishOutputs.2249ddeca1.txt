@@ -1,0 +1,7 @@
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\ZavFitLoginUI.exe
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\ZavFitLoginUI.dll
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\ZavFitLoginUI.deps.json
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\ZavFitLoginUI.runtimeconfig.json
+C:\Users\EhtishamPC\source\repos\ZavFitLoginUI\ZavFitLoginUI\obj\Release\net6.0\PubTmp\Out\ZavFitLoginUI.pdb
